@@ -15,5 +15,10 @@ h2 {
 
 	padding: 0 6px;
 
-	border-radius: 6px;
+	/*border-radius: 6px;*/
+}
+
+img {
+	width: 300px;
+	float: left;
 }
