@@ -1,5 +1,19 @@
 body {
-	font-family: Arial, sans-serif;
+	/*font-family: Arial, sans-serif;*/
+	font-family: 'Open Sans', sans-serif;
+	font-size: 13px;
+
 	width: 600px;
 	margin: auto;
+
+	color: green;
+}
+
+h2 {
+	color: white;
+	background-color: green;
+
+	padding: 0 6px;
+
+	border-radius: 6px;
 }
