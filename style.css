@@ -4,26 +4,20 @@ body {
 
 	width: 600px;
 	margin: auto;
-}
+	padding-top: 12px;
 
-h2 {
-	color: white;
-	background-color: green;
-
-	padding: 0 6px;
-
-	/*border-radius: 6px;*/
+	background-color: lightgrey;
 }
 
 img {
 	width: 200px;
-	margin: 12px 0;
+	/*margin: 12px 0;*/
 	float: left;
 }
 
 .info {
 	float: right;
-	margin: 12px 0 12px 12px;
+	margin: 0 0 12px 12px;
 	width: 364px;
 }
 
