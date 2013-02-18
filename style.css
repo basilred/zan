@@ -21,3 +21,10 @@ h2 {
 img {
 	width: 200px;
 }
+
+.plate {
+	width: 288px;
+	padding-left: 6px;
+	padding-right: 6px;
+	background-color: lightgrey;
+}
