@@ -11,29 +11,39 @@ body {
 
 img {
 	width: 200px;
+    height: 200px;
 	/*margin: 12px 0;*/
 	float: left;
+    margin-right: 12px;
+}
+
+h2 {
+    padding-top: 12px;
 }
 
 .info {
-	float: right;
-	margin: 0 0 12px 12px;
-	width: 364px;
+	/*float: right;*/
+	margin: 0 0 12px 0;
+	/*width: 364px;*/
+    height: 200px;
 }
 
 .working {
 	float: left;
 	width: 320px;
+    height: 176px;
+    padding: 12px;
 }
 
 .connect {
 	float: right;
 	width: 220px;
+    height: 176px;
+    padding: 12px;
 }
 
 .linear {
-	height: 176px;
-	padding: 12px;
+	
 	background: url(bg-line-repeat.png) repeat 0 0;
 }
 
