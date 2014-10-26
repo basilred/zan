@@ -12,19 +12,20 @@ body {
 img {
 	width: 200px;
     height: 200px;
-	/*margin: 12px 0;*/
 	float: left;
     margin-right: 12px;
 }
 
 h2 {
-    padding-top: 12px;
+    padding-top: 1em;
+}
+
+h3 {
+    padding-left: 1em;
 }
 
 .info {
-	/*float: right;*/
 	margin: 0 0 12px 0;
-	/*width: 364px;*/
     height: 200px;
 }
 
@@ -43,7 +44,6 @@ h2 {
 }
 
 .linear {
-	
 	background: url(bg-line-repeat.png) repeat 0 0;
 }
 
